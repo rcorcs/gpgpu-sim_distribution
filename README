@@ -155,7 +155,7 @@ GPGPU-Sim dependencies:
 	
 GPGPU-Sim documentation dependencies:
 * doxygen
-* graphvi
+* graphviz
 
 AerialVision dependencies:
 * python-pmw
